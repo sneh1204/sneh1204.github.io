@@ -12,7 +12,7 @@
     "service-worker.js": "/service-worker.js",
     "static/css/main.022eb82c.chunk.css.map": "/static/css/main.022eb82c.chunk.css.map",
     "static/js/2.7303e263.chunk.js.LICENSE.txt": "/static/js/2.7303e263.chunk.js.LICENSE.txt",
-    "static/media/Eshan.jpg": "/static/media/pfp.jpg",
+    "static/media/pfp.jpg": "/static/media/pfp.jpg",
     "static/media/resume.pdf": "/static/media/Resume.pdf"
   },
   "entrypoints": [
